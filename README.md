@@ -1,8 +1,3 @@
-Here is a complete, ready-to-use README.md file for your project.
-Just copy–paste into README.md and you’re done.
-
-⸻
-
 📟 Jarvis – AI Terminal Chatbot
 
 A terminal-based AI assistant powered by Groq’s Llama 3.3 models with automatic real-time web search using the Tavily API.
@@ -110,12 +105,3 @@ Jarvis: Sure! Quantum computing is...
 ISC License
 
 ⸻
-
-If you’d like, I can also generate:
-
-✅ app.js file
-✅ .env.example template
-✅ ASCII banner for Jarvis
-✅ NPM publish-ready version
-
-Just tell me!
